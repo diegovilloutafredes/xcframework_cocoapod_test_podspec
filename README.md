@@ -1,0 +1,1 @@
+# xcframework_cocoapod_test_podspec
